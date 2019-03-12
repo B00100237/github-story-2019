@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# github-story-2019
+###Git story Assignment
 
-You can use the [editor on GitHub](https://github.com/B00100237/github-story-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Chapter 1 - 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Chapter 2 - 
 
-### Markdown
+##Chapter 3 - 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Chapter 1](github-story-2019/chapter1.html) 
 
-```markdown
-Syntax highlighted code block
+[Chapter 2](github-story-2019/chapter2.html)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/B00100237/github-story-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Chapter 3](github-story-2019/chapter3.html)
