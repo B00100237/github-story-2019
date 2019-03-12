@@ -1,12 +1,14 @@
 # github-story-2019
 
-### Git story Assignment
+### Git story Assignment 
 
-## Chapter 1 - 
+## Chapter 1 - This chapter will focus on a new start from a season of winter to spring and in this case spring is a symbol of hope and a fresh start for two new orphans
 
 ## Chapter 2 - 
 
 ## Chapter 3 - 
+
+######This is a non-fiction piece and is based on events in real life
 
 [Chapter 1](chapter1.html) 
 
