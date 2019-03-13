@@ -4,7 +4,7 @@
 
 ## Chapter 1 - This chapter will focus on a new start from a season of winter to spring and in this case spring is a symbol of hope and a fresh start for two new orphans
 
-## Chapter 2 - 
+## Chapter 2 - This chapter introduces a new member of the family and people still enjoying the hot weather of Spring.
 
 ## Chapter 3 - 
 
