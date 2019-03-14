@@ -12,10 +12,7 @@
 ###### This is a non-fiction piece and is based on events in real life
 
 [Chapter 1](chapter1.html) 
-***
 
 [Chapter 2](chapter2.html)
-***
 
 [Chapter 3](chapter3.html)
-***
