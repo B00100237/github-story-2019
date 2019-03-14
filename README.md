@@ -6,7 +6,7 @@
 
 ## Chapter 2 - This chapter introduces a new member of the family and people still enjoying the hot weather of Spring.
 
-## Chapter 3 - 
+## Chapter 3 - Chapter 3 goes more into the hot weather and mentions a death in the family
 
 ###### This is a non-fiction piece and is based on events in real life
 
